@@ -1,4 +1,5 @@
 *{
+
     padding: 0;
     margin: 0;
 }
@@ -22,6 +23,7 @@
 }
 
 .container{
+font:  sans-serif;
     background-color: #E2E5F0;
     width: 100%;
     height: 600px;
@@ -39,6 +41,7 @@
     position: absolute;top: 40px;
     left: 150px;
     font-size: 25px;
+    color: #3b5998;
 }
 .form{
     position: absolute;
